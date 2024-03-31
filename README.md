@@ -1,4 +1,4 @@
 # Suresh-demo
 This is my First Git Repository
 <br>
-Author - SuRu
+Author - Suresh
